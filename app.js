@@ -27,5 +27,9 @@ for (let index = 0; index < hayvanlar.length; index++){
     }  
 }
 
-console.log(toplamAyakSayisi);      
+console.log(`Toplam kullanilabilir ayak sayisi = ${toplamAyakSayisi}`);      
+
+
+
+
 
